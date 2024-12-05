@@ -15,7 +15,6 @@ filetree
 │  ├── /line1/  % Results of research Line 1
 │  ├── /line2/  % Results of research Line 2
 │  ├── /line3/  % Results of research Line 3
-│  ├── /line4/  % Results of research Line 4
 │  └── /in/     % Raw data of research Lines
 ├── ./evaluate_func/  % Evaluate functions  
 ├── ./matlab_func/    % Matlab functions 
